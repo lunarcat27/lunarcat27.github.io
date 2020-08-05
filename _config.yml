@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
+title: "Lunarcat's Blog"
+author: "Lunarcat"
+description: "Welcome to Lunarcat's blog ;)"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -31,7 +31,7 @@ external:                    # see http://fontawesome.com/icons
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-#  disqus_shortname: ""      # see https://disqus.com/
+disqus_shortname: "lunarcat27"      # see https://disqus.com/
 #  isso_domain: ""           # see https://posativ.org/isso/
 
 plugins:
